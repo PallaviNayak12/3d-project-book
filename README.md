@@ -1,5 +1,4 @@
 # 📘 3D Project Book
-
 An **interactive 3D project showcase** built with HTML, CSS, and JavaScript.
 Each page of the book highlights one of my GitHub projects.
 Click on the pages to flip them like a real book 📖✨  
